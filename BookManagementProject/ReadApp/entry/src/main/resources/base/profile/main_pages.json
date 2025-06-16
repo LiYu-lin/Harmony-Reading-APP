@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Page",
+    "pages/MainPage",
+    "pages/ReadPage",
+    "pages/Record",
+    "pages/Comment"
+  ]
+}
